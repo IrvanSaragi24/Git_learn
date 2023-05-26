@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CCC679982A20ADDB00F59CA8 /* NavigationViewButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCC679972A20ADDB00F59CA8 /* NavigationViewButtonView.swift */; };
 		E2EAE1D12A20A846008D994B /* GitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2EAE1D02A20A846008D994B /* GitApp.swift */; };
 		E2EAE1D32A20A846008D994B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2EAE1D22A20A846008D994B /* ContentView.swift */; };
 		E2EAE1D52A20A848008D994B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2EAE1D42A20A848008D994B /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CCC679972A20ADDB00F59CA8 /* NavigationViewButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewButtonView.swift; sourceTree = "<group>"; };
 		E2EAE1CD2A20A846008D994B /* Git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Git.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2EAE1D02A20A846008D994B /* GitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitApp.swift; sourceTree = "<group>"; };
 		E2EAE1D22A20A846008D994B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				E2EAE1D02A20A846008D994B /* GitApp.swift */,
 				E2EAE1D22A20A846008D994B /* ContentView.swift */,
 				E2EAE1DE2A20AAF3008D994B /* DetailView.swift */,
+				CCC679972A20ADDB00F59CA8 /* NavigationViewButtonView.swift */,
 				E2EAE1D42A20A848008D994B /* Assets.xcassets */,
 				E2EAE1D62A20A848008D994B /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCC679982A20ADDB00F59CA8 /* NavigationViewButtonView.swift in Sources */,
 				E2EAE1D32A20A846008D994B /* ContentView.swift in Sources */,
 				E2EAE1D12A20A846008D994B /* GitApp.swift in Sources */,
 				E2EAE1DF2A20AAF3008D994B /* DetailView.swift in Sources */,
